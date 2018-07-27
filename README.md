@@ -9,3 +9,5 @@ It works like this: if you click, the gravity is reversed. If you collide with o
   * You should see the game running!
 ## Video Example
 ![](demoFB.gif)
+## Future improvements
+There should different types of obstacles, or maybe some platforms or score boosters.
